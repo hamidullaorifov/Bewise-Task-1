@@ -24,7 +24,7 @@ To get started with the FastAPI application, follow the steps below:
    ```
 
 4. Access the FastAPI application
-    Open your web browser and navigate to http://localhost:8000/docs. You should see the FastAPI documentation page
+    Open your web browser and navigate to http://localhost:8000/docs. You can see and test the FastAPI documentation page
 
 5. Stop the Docker container:
     ```bash
